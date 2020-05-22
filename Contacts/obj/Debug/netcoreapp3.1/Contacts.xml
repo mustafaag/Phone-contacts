@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Contacts</name>
+    </assembly>
+    <members>
+        <member name="M:Contacts.Controllers.ContactsController.GetOrderd(System.String,System.String)">
+            <summary>
+            direction == asc returns the record ascending \n
+            direction == desc returns the record descending\n
+            fnameOrLname == fname returns the record ordered by firstanme\n
+            fnameOrLname == lname returns the record by lname\n
+            </summary>
+            <param name="direction"></param>
+            <param name="fnameOrLname"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

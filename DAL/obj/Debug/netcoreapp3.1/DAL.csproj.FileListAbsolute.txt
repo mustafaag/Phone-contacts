@@ -1,0 +1,9 @@
+E:\phonebook\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+E:\phonebook\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+E:\phonebook\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+E:\phonebook\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+E:\phonebook\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+E:\phonebook\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+E:\phonebook\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+E:\phonebook\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+E:\phonebook\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
